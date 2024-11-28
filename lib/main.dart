@@ -23,7 +23,7 @@ void main() {
         create: (_) => ModuleProvider(),
       ),
     ],
-    child: const MainApp();
+    child: const MainApp()
   ));
 }
 

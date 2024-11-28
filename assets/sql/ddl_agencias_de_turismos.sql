@@ -7,13 +7,13 @@
 --Programa de estudio: APSTI--
 ---Fecha entrega: 13/11/2024---
 
-Base de datos: bd_agencias_de_turismos
+Base de datos: bd_boletas digitales
 Descripcion:
 Integrantes:
--
--
--
--
+-Condori Huamantoma, Bretmer
+-Yarihuaman Mitma, Percy
+-Ramos Lopes, Maricielo
+-Huamani Ayquipa, Ana maria
 -
 
 Subconjunto del lenguaje SQL: DDL
