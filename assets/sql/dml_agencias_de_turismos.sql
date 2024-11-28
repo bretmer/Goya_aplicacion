@@ -10,10 +10,10 @@
 Base de datos: bd_agencias_de_turismos
 Descripcion:
 Integrantes:
--
--
--
--
+-Condori Huamantoma, Bretmer
+-Yarihuaman Mitma, Percy
+-Ramos Lopes, Maricielo
+-Huamani Ayquipa, Ana maria
 -
 
 Subconjunto del lenguaje SQL: DML
