@@ -14,7 +14,7 @@ void main() {
         create: (_) => SettingProvider(),
       ),
       ChangeNotifierProvider(
-        create: (_) => CategoryProvider(),
+        create: (_) => CategoryProvider( ),
       ),
       ChangeNotifierProvider(
         create: (_) => AgencyProvider(),
